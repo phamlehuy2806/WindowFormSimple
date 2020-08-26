@@ -1,0 +1,7 @@
+D:\Repos\C#\DemoWindowForm\bin\Debug\DemoWindowForm.exe.config
+D:\Repos\C#\DemoWindowForm\bin\Debug\DemoWindowForm.exe
+D:\Repos\C#\DemoWindowForm\bin\Debug\DemoWindowForm.pdb
+D:\Repos\C#\DemoWindowForm\obj\Debug\DemoWindowForm.csprojAssemblyReference.cache
+D:\Repos\C#\DemoWindowForm\obj\Debug\DemoWindowForm.csproj.CoreCompileInputs.cache
+D:\Repos\C#\DemoWindowForm\obj\Debug\DemoWindowForm.exe
+D:\Repos\C#\DemoWindowForm\obj\Debug\DemoWindowForm.pdb
